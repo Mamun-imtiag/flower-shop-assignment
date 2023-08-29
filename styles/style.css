@@ -97,7 +97,7 @@
      width: 350px;
      height: 350px;
      width: 100%;
-     border: 1px solid black;
+      
  
 
  }
@@ -139,6 +139,9 @@
 }  
 /* hot deal,sale up section
  */
+ .instragram-section{
+    margin: 0px  250px 120px 250px;
+ }
  .sale-up-container{
     margin-top: 70px;
  }
