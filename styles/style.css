@@ -54,7 +54,7 @@
 
  /* main section start*/
  .main-container {
-     margin-bottom: 200px;
+     margin-bottom: 60px;
  }
 
  .flower-feature {
@@ -158,7 +158,7 @@
  /* subscribe section  */
 
  .subscribe-container {
-     border: 1px solid black;
+    
      max-width: 1000px;
      height: 350px;
      margin: 0 auto;
@@ -170,7 +170,7 @@
  
 
  .main-div {
-    margin-top: 80px ;
+    margin-top: 80px;
  }
 
  .input {
@@ -185,4 +185,28 @@
  }
  .btn-div{
     text-align: center;
+ }
+ /* footer  */
+ .footer-container{
+    color: white;
+    background: #111010;
+    height: 250px;
+    
+    text-align: center;
+ }
+ .footer-section h1{
+ 
+padding: 50px;
+    
+    
+   
+ }
+ .footer-section h1{
+    padding-bottom: 20px;
+ }
+ .footer-section p{
+    padding-bottom: 15px;
+ }
+ .color-change{
+    color: #E55473;
  }
