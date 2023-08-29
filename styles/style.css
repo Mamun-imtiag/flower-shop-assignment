@@ -89,7 +89,7 @@
  .flower-div {
      padding-right: 23px;
      width: 300px;
-     
+
  }
 
  .pink-flower .flower-img {
@@ -97,8 +97,8 @@
      width: 350px;
      height: 350px;
      width: 100%;
-      
- 
+
+
 
  }
 
@@ -109,44 +109,80 @@
      font-weight: bold;
      text-decoration-line: underline;
  }
- 
+
  .img-bg-color-1 {
-      
+
      width: 464px;
      height: 538px;
-  
+
      border-radius: 300px 300px 0px 0px;
-     background: rgba(167, 33, 98, 0.15); 
+     background: rgba(167, 33, 98, 0.15);
 
  }
+
  .img-bg-color-2 {
-      
-    width: 464px;
-    height: 538px;
- 
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(5, 151, 160, 0.15);
 
-}
-.img-bg-color-3 {
-      
-    width: 464px;
-    height: 538px;
- 
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
+     width: 464px;
+     height: 538px;
 
-}  
-/* hot deal,sale up section
+     border-radius: 300px 300px 0px 0px;
+     background: rgba(5, 151, 160, 0.15);
+
+ }
+
+ .img-bg-color-3 {
+
+     width: 464px;
+     height: 538px;
+
+     border-radius: 300px 300px 0px 0px;
+     background: rgba(167, 33, 98, 0.15);
+
+ }
+
+ /* hot deal,sale up section
  */
- .instragram-section{
-    margin: 0px  250px 120px 250px;
+ .instragram-section {
+     margin: 0px 250px 120px 250px;
  }
- .sale-up-container{
-    margin-top: 70px;
- }
-.deal-part{
-    text-align: center;
 
-}
+ .sale-up-container {
+     margin-top: 70px;
+ }
+
+ .deal-part {
+     text-align: center;
+
+ }
+
+ /* subscribe section  */
+
+ .subscribe-container {
+     border: 1px solid black;
+     max-width: 1000px;
+     height: 350px;
+     margin: 0 auto;
+     background-image: url('../Flower\ Asset/Rectangle 9.png');
+
+
+ }
+
  
+
+ .main-div {
+    margin-top: 80px ;
+ }
+
+ .input {
+     width: 500px;
+     height: 50px;
+     border-radius: 8px;
+     background: #FFF;
+     border: 0;
+     padding-left: 15px;
+     margin-right: 10px;
+
+ }
+ .btn-div{
+    text-align: center;
+ }
