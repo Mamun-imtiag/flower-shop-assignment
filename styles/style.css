@@ -137,5 +137,13 @@
     background: rgba(167, 33, 98, 0.15);
 
 }  
+/* hot deal,sale up section
+ */
+ .sale-up-container{
+    margin-top: 70px;
+ }
+.deal-part{
+    text-align: center;
 
+}
  
